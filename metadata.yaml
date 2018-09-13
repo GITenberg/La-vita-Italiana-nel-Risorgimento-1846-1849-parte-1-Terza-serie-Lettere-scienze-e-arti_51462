@@ -1,0 +1,32 @@
+_repo: La-vita-Italiana-nel-Risorgimento-1846-1849-parte-1-Terza-serie-Lettere-scienze-e-arti_51462
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2016-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51462'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History -- 1815-1870'
+- !lcsh 'Italy -- History -- Revolution of 1848'
+- !lcsh 'Italian literature -- 19th century'
+- !lcsh 'Panzacchi, Enrico, 1840-1904'
+- !lcc 'DG'
+- GITenberg
+tableOfContents: 'La poesia del quarantotto / Enrico Panzacchi -- La poesia del Giusti
+  / Isidoro del Lungo -- G.G. Belli e la vita romana / Alfredo Baccelli -- Il teatro.
+  Una musa scomparsa / Vincenzo Morello -- Le belle arti: dall''Hayez ai fratelli
+  Induno/ Ugo Ojetti -- Il vapore e le sue applicazioni / Giuseppe Colombo.'
+title: "La vita Italiana nel Risorgimento (1846-1849), parte 1\r\nTerza serie - Lettere,\
+  \ scienze e arti"
+url: http://www.gutenberg.org/ebooks/51462
